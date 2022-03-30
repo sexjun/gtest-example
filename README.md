@@ -1,4 +1,6 @@
 # gtest-example
+
+
 ## 1. 效果演示
     1. 视频演示
 ## 2. 环境搭建
@@ -13,3 +15,5 @@
 4. 运行
 
 ## 4. 进一步学习 && 源码获取
+1. 官方文档
+2. `git clone https://github.com/sexjun/gtest-example`可以获取本文所有代码
